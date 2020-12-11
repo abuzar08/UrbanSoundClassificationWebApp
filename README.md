@@ -1,5 +1,7 @@
 # UrbanSoundClassificationWebApp
 
+Contributors: Abuzar Khan, Amrit Khera
+
 ## Install Dependancies
 
 - Download npm on your device
