@@ -3,12 +3,12 @@
 ## Install Dependancies
 
 - Download npm on your device
-- run :  <code>npm install</code> <br> on your terminal
+- run :  <code>npm install</code>  on your terminal
 
 ## Steps to set-up network:
 
-- Run command  :  ``docker-compose up`` <br> on your terminal
-- open :  ``localhost:3000`` <br> on your browser
+- Run command  :  ``docker-compose up``  on your terminal
+- open :  ``localhost:3000`` on your browser
 
 ## Screens
 
