@@ -1,4 +1,4 @@
-# UrbanSoundClassificationWebApp
+# Urban Sound Classification Web-App
 
 Contributors: Abuzar Khan, Amrit Khera
 
